@@ -1,5 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Al Amin Pramanik</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A professional software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-al-amin-pramanik&label=Profile%20views&color=0e75b6&style=flat" alt="dev-al-amin-pramanik" /> </p>
 
